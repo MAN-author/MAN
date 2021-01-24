@@ -1,2 +1,0 @@
-python scripts/train_fewshot.py \
---config=miniImageNet/Conv64CosineClassifierRotLocJigCluSelfsupervision_attention_fc_no_tiered_64 \
