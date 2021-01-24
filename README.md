@@ -12,3 +12,6 @@ cuda:10.2
 ```
 pip install -e .
 ```
+## Dataset
+### MiniImagenet 
+To download the MiniImagenet dataset go to https://github.com/gidariss/FewShotWithoutForgetting and follow the instructions there. Then, set in man/datasets/mini_imagenet_dataset.py the path to where the dataset resides in your machine.
