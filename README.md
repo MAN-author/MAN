@@ -15,3 +15,14 @@ pip install -e .
 ## Dataset
 ### MiniImagenet 
 To download the MiniImagenet dataset go to https://github.com/gidariss/FewShotWithoutForgetting and follow the instructions there. Then, set in man/datasets/mini_imagenet_dataset.py the path to where the dataset resides in your machine.
+
+## Train
+```
+sh run_miniImageNet/WRN-train.sh
+```
+
+
+## Test
+```
+sh run_miniImageNet/WRN-test.sh
+```
