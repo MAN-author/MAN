@@ -1,7 +1,7 @@
 # MAN
 code for paper:"Multi-pretext Attention Network for Few-shot Learning with Self-supervision"
 
-##Installation
+## Installation
 
 ```
 conda version:4.6.14
